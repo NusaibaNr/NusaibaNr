@@ -1,5 +1,5 @@
 ![Waterfall](https://github.com/NusaibaNr/NusaibaNr/blob/main/gif.gif?raw=true)
-## Hi there 👋
+
 <!--
 **NusaibaNr/NusaibaNr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
