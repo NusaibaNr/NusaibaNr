@@ -1,5 +1,6 @@
-![Waterfall](https://github.com/NusaibaNr/NusaibaNr/blob/main/gif.gif?raw=true)
-
+<div align="center">
+  <img src="https://github.com/NusaibaNr/NusaibaNr/blob/main/gif.gif?raw=true" alt="Waterfall" />
+</div>
 <!--
 **NusaibaNr/NusaibaNr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
