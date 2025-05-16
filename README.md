@@ -2,7 +2,7 @@
   <img src="https://github.com/NusaibaNr/NusaibaNr/blob/main/gif.gif?raw=true" alt="Waterfall" />
 </div>
 
-#####################################Hi, I'm Nusaiba 👋################################
+# Hi, I'm Nusaiba 👋
 
 I’m a Software Engineering student with a deep passion for artificial intelligence, data science, and software development. My academic journey, alongside hands-on projects, has given me a solid foundation in the tech industry. I’m particularly excited by how computational techniques and engineering principles contribute to advancements in AI, quantum computing, and digital systems.
 
