@@ -7,11 +7,12 @@
 I’m a Software Engineering student with a deep passion for artificial intelligence, data science, and software development. My academic journey, alongside hands-on projects, has given me a solid foundation in the tech industry. I’m particularly excited by how computational techniques and engineering principles contribute to advancements in AI, quantum computing, and digital systems.
 
 ## 💻 Skills
-- **Programming Languages**: Python, Java, C, C++, C#, JavaScript, SQL, PHP, GO, MATLAB  
-- **Frameworks & Technologies**: Flutter, React, Full Stack Development, Frontend & Backend Integration, Application Development  
-- **Tools & Platforms**: Git, GitHub, Figma, IntelliJ IDEA, VS Code, PyCharm, Android Studio  
-- **Databases**: SQL, SQLite, Database Design & Development, Database Management  
-- **Key Concepts**: Data Science, AI, Machine Learning, System Design, Information Security Fundamentals
+- **Programming Languages**: Python, Java, C, C++, C#, JavaScript, TypeScript, SQL, PHP, Go, MATLAB, R, Swift, HTML, CSS, Bash/Shell
+- **Frameworks & Technologies**: React, Flutter, Flask, Node.js, Bootstrap, Full Stack Development, Frontend & Backend Integration, Application Development, Responsive Web Design, RESTful API Development, AJAX
+- **Tools & Platforms**: Git, GitHub, GitLab, Figma, VS Code, PyCharm, Jupyter Notebook, Postman, Chrome DevTools, npm, Netlify
+- **Databases**:  MySQL, SQLite, MongoDB (basic), SQL, Database Design & Development, Database Management, CRUD Operations
+- **Key Concepts**: Object-Oriented Programming, Functional Programming, Data Structures & Algorithms, System Design, Information Security Fundamentals, Agile/Scrum Methodologies, Software Development Life Cycle 
+- **AI & Data Science**: Data Science, Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), NumPy, TensorFlow, OpenCV, Data Visualization, Model Training & Evaluation
 
 ## 💡 Passion Areas
 - **Artificial Intelligence**: Exploring AI algorithms and their applications to solve complex problems.  
