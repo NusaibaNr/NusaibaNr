@@ -24,8 +24,6 @@ I’m a Software Engineering student with a deep passion for artificial intellig
 
 ## 📬 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/nusaiba-n-959a90296/)  
-- [Academia](https://uskudar.academia.edu/NusaibaNoor)  
-- [YouTube](https://www.youtube.com/@Nusaibannoor)
 
 ---
 
