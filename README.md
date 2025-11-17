@@ -23,7 +23,7 @@ I’m a Software Engineering student with a deep passion for artificial intellig
 - **Bachelor’s Degree in Software Engineering**
 
 ## 📬 Let's Connect
-- [LinkedIn](www.linkedin.com/in/nusaiba-a-noor)  
+- [LinkedIn] (www.linkedin.com/in/nusaiba-a-noor)  
 
 ---
 
