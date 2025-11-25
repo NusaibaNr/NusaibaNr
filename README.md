@@ -4,7 +4,7 @@
 
 # Hi, I'm Nusaiba 👋
 
-I’m a Software Engineering student with a deep passion for artificial intelligence, data science, and software development. My academic journey, alongside hands-on projects, has given me a solid foundation in the tech industry. I’m particularly excited by how computational techniques and engineering principles contribute to advancements in AI, quantum computing, and digital systems.
+I’m a Final year Software Engineering student with a deep passion for artificial intelligence, data science, and software development. My academic journey, alongside hands-on projects, has given me a solid foundation in the tech industry. I’m particularly excited by how computational techniques and engineering principles contribute to advancements in AI, quantum computing, and digital systems.
 
 ## 💻 Skills
 - **Programming Languages**: Python, Java, C, C++, C#, JavaScript, TypeScript, SQL, PHP, Go, MATLAB, R, Swift, HTML, CSS, Bash/Shell
