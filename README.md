@@ -23,7 +23,7 @@ I’m a Final year Software Engineering student with a deep passion for artifici
 - **Bachelor’s Degree in Software Engineering**
 
 ## 📬 Let's Connect
-- [LinkedIn] (www.linkedin.com/in/nusaiba-a-noor)  
+- [LinkedIn] (www.linkedin.com/in/nusaiba-a-noor) . 
 
 ---
 
